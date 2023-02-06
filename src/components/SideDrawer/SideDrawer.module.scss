@@ -1,0 +1,13 @@
+.clear-btn {
+  margin: 1rem auto 0 auto !important;
+  display: flex !important;
+  color: white !important;
+  background: red !important;
+  border: 2px solid transparent !important;
+}
+
+.clear-btn:hover {
+  color: red !important;
+  border: 2px solid red !important;
+  background: white !important;
+}
